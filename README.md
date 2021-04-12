@@ -7,7 +7,7 @@ A command-line interface to [spritezero](https://github.com/mapbox/spritezero).
 
 ## Installation
 
-    npm install -g @mapbox/spritezero-cli
+    npm install -g work-spritezero-cli
 
 ## Usage
 
